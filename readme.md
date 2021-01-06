@@ -1,5 +1,5 @@
 # Express + Vue project
 install packages:
-```$ npm install```
+```$ npm install``` <br>
 run project:
 ```$ npm run start```
